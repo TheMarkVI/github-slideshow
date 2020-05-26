@@ -1,7 +1,6 @@
-
 ---
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+haha printer go brrr
 Use the left arrow to go back!
